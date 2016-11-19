@@ -1,0 +1,7 @@
+#Exclude tsc generated files
+js/*.map
+js/ts.js
+*.js
+
+#exclude node_modules
+proj/node_modules
