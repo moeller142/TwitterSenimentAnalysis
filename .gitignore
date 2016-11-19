@@ -4,4 +4,4 @@ js/ts.js
 *.js
 
 #exclude node_modules
-proj/src/node_modules
+proj/node_modules
