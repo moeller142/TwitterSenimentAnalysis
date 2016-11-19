@@ -1,3 +1,0 @@
-#Exclude tsc generated files
-js/*.map
-js/ts.js
